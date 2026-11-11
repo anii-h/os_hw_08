@@ -1,0 +1,4 @@
+Roses are red,
+files are bytes,
+lseek moves around,
+and write() writes.
