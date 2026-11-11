@@ -2,6 +2,8 @@
 ## Operating Systems
 ### Ani Hambardzumyan
 
+GitHub repository: https://github.com/anii-h/os_hw_08
+
 All seven programs do their file I/O only with system calls: `open`, `read`,
 `write`, `lseek`, `ftruncate` and `close`. If a system call fails, the program
 prints the error with `perror` and exits.
